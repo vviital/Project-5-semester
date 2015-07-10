@@ -1,0 +1,9 @@
+D:\3 курс\ООП\SmartHomeForms\SmartHomeForms\bin\Debug\SmartHomeForms.exe.config
+D:\3 курс\ООП\SmartHomeForms\SmartHomeForms\bin\Debug\SmartHomeForms.exe
+D:\3 курс\ООП\SmartHomeForms\SmartHomeForms\bin\Debug\SmartHomeForms.pdb
+D:\3 курс\ООП\SmartHomeForms\SmartHomeForms\obj\Debug\SmartHomeForms.MainForm.resources
+D:\3 курс\ООП\SmartHomeForms\SmartHomeForms\obj\Debug\SmartHomeForms.Properties.Resources.resources
+D:\3 курс\ООП\SmartHomeForms\SmartHomeForms\obj\Debug\SmartHomeForms.csproj.GenerateResource.Cache
+D:\3 курс\ООП\SmartHomeForms\SmartHomeForms\obj\Debug\SmartHomeForms.exe
+D:\3 курс\ООП\SmartHomeForms\SmartHomeForms\obj\Debug\SmartHomeForms.pdb
+D:\3 курс\ООП\SmartHomeForms\SmartHomeForms\obj\Debug\SmartHomeForms.csprojResolveAssemblyReference.cache

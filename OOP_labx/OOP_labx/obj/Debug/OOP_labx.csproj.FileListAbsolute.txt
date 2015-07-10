@@ -1,0 +1,63 @@
+D:\Универ\3 курс\ООП\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe.config
+D:\Универ\3 курс\ООП\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csprojResolveAssemblyReference.cache
+D:\Универ\3 курс\ООП\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Form1.resources
+D:\Универ\3 курс\ООП\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Properties.Resources.resources
+D:\Универ\3 курс\ООП\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csproj.GenerateResource.Cache
+D:\Универ\3 курс\ООП\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe
+D:\Универ\3 курс\ООП\OOP_labx\OOP_labx\bin\Debug\OOP_labx.pdb
+D:\Универ\3 курс\ООП\OOP_labx\OOP_labx\obj\Debug\OOP_labx.exe
+D:\Универ\3 курс\ООП\OOP_labx\OOP_labx\obj\Debug\OOP_labx.pdb
+D:\university\3_kurs\OOP_v\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe.config
+D:\university\3_kurs\OOP_v\OOP_labx\OOP_labx\obj\Debug\OOP_labx.exe
+D:\university\3_kurs\OOP_v\OOP_labx\OOP_labx\obj\Debug\OOP_labx.pdb
+D:\university\3_kurs\OOP_v\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe
+D:\university\3_kurs\OOP_v\OOP_labx\OOP_labx\bin\Debug\OOP_labx.pdb
+D:\university\3_kurs\OOP_v\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Form1.resources
+D:\university\3_kurs\OOP_v\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Properties.Resources.resources
+D:\university\3_kurs\OOP_v\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csproj.GenerateResource.Cache
+D:\university\3_kurs\OOP_v\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csprojResolveAssemblyReference.cache
+D:\university\3_kurs\OOP_v\OOP_labx\my_lab\OOP_labx\bin\Debug\OOP_labx.exe.config
+D:\university\3_kurs\OOP_v\OOP_labx\my_lab\OOP_labx\obj\Debug\OOP_labx.exe
+D:\university\3_kurs\OOP_v\OOP_labx\my_lab\OOP_labx\obj\Debug\OOP_labx.pdb
+D:\university\3_kurs\OOP_v\OOP_labx\my_lab\OOP_labx\bin\Debug\OOP_labx.exe
+D:\university\3_kurs\OOP_v\OOP_labx\my_lab\OOP_labx\bin\Debug\OOP_labx.pdb
+D:\university\3_kurs\OOP_v\OOP_labx\my_lab\OOP_labx\obj\Debug\OOP_labx.csprojResolveAssemblyReference.cache
+D:\university\3_kurs\OOP_v\OOP_labx\my_lab\OOP_labx\obj\Debug\OOP_labx.Form1.resources
+D:\university\3_kurs\OOP_v\OOP_labx\my_lab\OOP_labx\obj\Debug\OOP_labx.Properties.Resources.resources
+D:\university\3_kurs\OOP_v\OOP_labx\my_lab\OOP_labx\obj\Debug\OOP_labx.csproj.GenerateResource.Cache
+D:\university\3_kurs\OOP_v\OOP_labx()\OOP_labx\bin\Debug\OOP_labx.exe.config
+D:\university\3_kurs\OOP_v\OOP_labx()\OOP_labx\obj\Debug\OOP_labx.exe
+D:\university\3_kurs\OOP_v\OOP_labx()\OOP_labx\obj\Debug\OOP_labx.pdb
+D:\university\3_kurs\OOP_v\OOP_labx()\OOP_labx\obj\Debug\OOP_labx.csprojResolveAssemblyReference.cache
+D:\university\3_kurs\OOP_v\OOP_labx()\OOP_labx\obj\Debug\OOP_labx.Form1.resources
+D:\university\3_kurs\OOP_v\OOP_labx()\OOP_labx\obj\Debug\OOP_labx.Properties.Resources.resources
+D:\university\3_kurs\OOP_v\OOP_labx()\OOP_labx\obj\Debug\OOP_labx.csproj.GenerateResource.Cache
+D:\university\3_kurs\OOP_v\OOP_labx()\OOP_labx\bin\Debug\OOP_labx.exe
+D:\university\3_kurs\OOP_v\OOP_labx()\OOP_labx\bin\Debug\OOP_labx.pdb
+D:\university\3_kurs\SVN\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe.config
+D:\university\3_kurs\SVN\OOP_labx\OOP_labx\obj\Debug\OOP_labx.exe
+D:\university\3_kurs\SVN\OOP_labx\OOP_labx\obj\Debug\OOP_labx.pdb
+D:\university\3_kurs\SVN\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe
+D:\university\3_kurs\SVN\OOP_labx\OOP_labx\bin\Debug\OOP_labx.pdb
+D:\university\3_kurs\SVN\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csprojResolveAssemblyReference.cache
+D:\university\3_kurs\SVN\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Form1.resources
+D:\university\3_kurs\SVN\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Properties.Resources.resources
+D:\university\3_kurs\SVN\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csproj.GenerateResource.Cache
+D:\university\3_kurs\SVN_V\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe.config
+D:\university\3_kurs\SVN_V\OOP_labx\OOP_labx\obj\Debug\OOP_labx.exe
+D:\university\3_kurs\SVN_V\OOP_labx\OOP_labx\obj\Debug\OOP_labx.pdb
+D:\university\3_kurs\SVN_V\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe
+D:\university\3_kurs\SVN_V\OOP_labx\OOP_labx\bin\Debug\OOP_labx.pdb
+D:\university\3_kurs\SVN_V\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csprojResolveAssemblyReference.cache
+D:\university\3_kurs\SVN_V\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Form1.resources
+D:\university\3_kurs\SVN_V\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Properties.Resources.resources
+D:\university\3_kurs\SVN_V\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csproj.GenerateResource.Cache
+H:\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe.config
+H:\OOP_labx\OOP_labx\obj\Debug\OOP_labx.exe
+H:\OOP_labx\OOP_labx\obj\Debug\OOP_labx.pdb
+H:\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csprojResolveAssemblyReference.cache
+H:\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Form1.resources
+H:\OOP_labx\OOP_labx\obj\Debug\OOP_labx.Properties.Resources.resources
+H:\OOP_labx\OOP_labx\obj\Debug\OOP_labx.csproj.GenerateResource.Cache
+H:\OOP_labx\OOP_labx\bin\Debug\OOP_labx.exe
+H:\OOP_labx\OOP_labx\bin\Debug\OOP_labx.pdb

@@ -1,0 +1,67 @@
+Home SmartHome
+electricitymeter 4 meter1
+watermeter 4 meter1
+
+Room HallWay
+battery 8 device1
+washstand 3 device1
+lights 4 device1
+electricitymeter 4 meter1
+motionsensor 4 sensor1
+
+Room Hall
+battery 8 device1
+washstand 3 device1
+lights 4 device1
+thermometer 4 meter1
+electricitymeter 4 meter1
+motionsensor 4 sensor1
+humiditysensor 4 sensor1
+
+Room Kitchen
+battery 8 device1
+washstand 3 device1
+electricrange 4 device1
+lights 4 device1
+watermeter 3 device1
+thermometer 4 meter1
+electricitymeter 4 meter1
+motionsensor 4 sensor1
+humiditysensor 4 sensor1
+
+Room Playroom
+battery 8 device1
+lights 4 device1
+thermometer 4 meter1
+electricitymeter 4 meter1
+motionsensor 4 sensor1
+humiditysensor 4 sensor1
+
+Room Bedroom
+battery 8 device1
+lights 4 device1
+thermometer 4 meter1
+electricitymeter 4 meter1
+motionsensor 4 sensor1
+humiditysensor 4 sensor1
+
+Room Toilet
+battery 8 device1
+lights 4 device1
+electricitymeter 4 meter1
+motionsensor 4 sensor1
+
+Room Bathroom
+battery 8 device1
+washstand 3 device1
+lights 4 device1
+electricitymeter 4 meter1
+motionsensor 4 sensor1
+
+Room Gum
+battery 8 device1
+lights 4 device1
+thermometer 4 meter1
+electricitymeter 4 meter1
+motionsensor 4 sensor1
+humiditysensor 4 sensor1

@@ -1,0 +1,17 @@
+nvvsvc.exe
+lsass.exe
+csrss.exe
+csrss.exe
+igfxCUIService.exe
+nvvsvc.exe
+igfxCUIService.exe
+wininit.exe
+svchost.exe
+lsass.exe
+lsass.exe
+lsass.exe
+lsass.exe
+lsass.exe
+lsass.exe
+lsass.exe
+lsass.exe

@@ -1,0 +1,19 @@
+SmartHouse
+Room
+Device
+ElectricalConsumer 1000 2
+/
+/
+Device
+ElectricalConsumer 1000 1
+/
+/
+/
+Room
+Device
+ElectricalConsumer 900 5
+/
+/
+/
+/
+/

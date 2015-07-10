@@ -1,0 +1,24 @@
+D:\Универ\3 курс\ООП\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.exe.config
+D:\Универ\3 курс\ООП\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.exe
+D:\Универ\3 курс\ООП\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.pdb
+D:\Универ\3 курс\ООП\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.exe
+D:\Универ\3 курс\ООП\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.pdb
+D:\Универ\3 курс\ООП\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.csprojResolveAssemblyReference.cache
+D:\university\3_kurs\OOP_s\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.exe.config
+D:\university\3_kurs\OOP_s\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.exe
+D:\university\3_kurs\OOP_s\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.pdb
+D:\university\3_kurs\OOP_s\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.csprojResolveAssemblyReference.cache
+D:\university\3_kurs\OOP_s\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.exe
+D:\university\3_kurs\OOP_s\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.pdb
+D:\university\3_kurs\SVN_S\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.exe.config
+D:\university\3_kurs\SVN_S\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.exe
+D:\university\3_kurs\SVN_S\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.pdb
+D:\university\3_kurs\SVN_S\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.exe
+D:\university\3_kurs\SVN_S\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.pdb
+D:\university\3_kurs\SVN_S\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.csprojResolveAssemblyReference.cache
+H:\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.exe.config
+H:\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.exe
+H:\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.pdb
+H:\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.exe
+H:\ConsoleSmartHouse\ConsoleSmartHouse\bin\Debug\ConsoleSmartHouse.pdb
+H:\ConsoleSmartHouse\ConsoleSmartHouse\obj\Debug\ConsoleSmartHouse.csprojResolveAssemblyReference.cache
